@@ -162,6 +162,20 @@ button {
     }
 }
 
+@media only screen and (max-width:400px) {
+    /* For mobile phones: */
+    .links{
+        padding-bottom: 15%;
+    }
+
+    h3{
+        font-size:4.1vw;
+    }
+    button {
+        margin-left: 26%;
+    }
+}
+
 button:hover {
     animation: ani 8s linear infinite;
     border: none;
