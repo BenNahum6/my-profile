@@ -71,7 +71,6 @@ img{
 
 .icon.social:hover {
     background:white;/*hover color*/
-    /*color:#ffeb3b;*/
     transition: 0.5s;
     -moz-transition: 0.5s;
     -webkit-transition: 0.5s;
