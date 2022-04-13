@@ -162,14 +162,14 @@ button {
     }
 }
 
-@media only screen and (max-width:400px) {
+@media only screen and (max-width:412px) {
     /* For mobile phones: */
     .links{
         padding-bottom: 15%;
     }
 
     h3{
-        font-size:2.5vw;
+        font-size: 70%;
     }
     button {
         margin-left: 26%;
