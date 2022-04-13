@@ -209,7 +209,7 @@ button:active {
     }
 }
 
-@media only screen and (max-width:412px) {
+@media only screen and (max-width:430px) {
     /* For mobile phones: */
     .links{
         padding-bottom: 15%;
