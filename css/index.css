@@ -206,6 +206,8 @@ button:active {
     }
     button {
         margin-left: 27%;
+        width: 30%;
+        height: 4%;
     }
 }
 
@@ -220,7 +222,7 @@ button:active {
     }
 
     button {
-        margin-left: 26%;
+        margin-left: 32%;
     }
 }
 /*end adapt to phone*/
