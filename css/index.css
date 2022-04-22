@@ -232,7 +232,14 @@ button:active {
 
 /*start adapt to leptop*/
 @media only screen and (max-width:992px) {
+    .links{
+        padding-bottom: 5%;
+    }
 
+    button{
+        margin-left: 5%;
+        height: 7%;
+    }
 }
 
 @media only screen and (max-width:1900px) {
@@ -242,7 +249,15 @@ button:active {
 }
 
 @media only screen and (max-width:2000px) {
+    h3{
+        font-size: 1.5vw;
+    }
+
+    h2{
+        font-size: 1.5vw;
+    }
     .links{
+        padding-bottom: 3%;
         margin-left: 4%;
     }
 
