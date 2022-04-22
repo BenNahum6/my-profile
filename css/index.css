@@ -228,40 +228,40 @@ button:active {
 }
 
 /*adapt to leptop*/
-@media only screen and (max-width:992px) {
-    .links{
-        padding-bottom: 5%;
-    }
+/*@media only screen and (max-width:992px) {*/
+/*    .links{*/
+/*        padding-bottom: 5%;*/
+/*    }*/
 
-    button{
-        margin-left: 5%;
-        height: 7%;
-    }
-}
+/*    button{*/
+/*        margin-left: 5%;*/
+/*        height: 7%;*/
+/*    }*/
+/*}*/
 
-@media only screen and (max-width:1900px) {
-    .links{
-        margin-right: 4.5%;
-    }
-}
+/*@media only screen and (max-width:1900px) {*/
+/*    .links{*/
+/*        margin-right: 4.5%;*/
+/*    }*/
+/*}*/
 
-@media only screen and (max-width:2000px) {
-    h3{
-        font-size: 1.5vw;
-    }
+/*@media only screen and (max-width:2000px) {*/
+/*    h3{*/
+/*        font-size: 1.5vw;*/
+/*    }*/
 
-    h2{
-        font-size: 1.5vw;
-    }
-    .links{
-        padding-bottom: 3%;
-        margin-left: 4%;
-    }
+/*    h2{*/
+/*        font-size: 1.5vw;*/
+/*    }*/
+/*    .links{*/
+/*        padding-bottom: 3%;*/
+/*        margin-left: 4%;*/
+/*    }*/
 
-    button {
-        margin-left: 44.5%;
-        width: 10%;
-    }
-}
+/*    button {*/
+/*        margin-left: 44.5%;*/
+/*        width: 10%;*/
+/*    }*/
+/*}*/
 
 
