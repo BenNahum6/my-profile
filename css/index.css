@@ -209,13 +209,10 @@ button:active {
         margin-left: 30%;
         width: 35%;
         height: 5%;
-
     }
 }
 
-/*start adapt to phone*/
 @media only screen and (max-width:500px) {
-    /* For mobile phones: */
     .links{
         padding-bottom: 15%;
     }
@@ -230,7 +227,7 @@ button:active {
     }
 }
 
-/*start adapt to leptop*/
+/*adapt to leptop*/
 @media only screen and (max-width:992px) {
     .links{
         padding-bottom: 5%;
@@ -266,3 +263,5 @@ button:active {
         width: 10%;
     }
 }
+
+
