@@ -38,17 +38,19 @@
     </div>
 </div>
 
-<button onclick="toggleLog(this)">Dark mode</button>
-<script>/**/
-let  bWriteLog = true;
-function toggleLog(elt) {
-    bWriteLog = !bWriteLog;
-    elt.innerHTML = bWriteLog ? 'Dark mode' : 'Light mode';
+<div class="button_place">
+    <button onclick="toggleLog(this)">Dark mode</button>
+    <script>/**/
+    let  bWriteLog = true;
+    function toggleLog(elt) {
+        bWriteLog = !bWriteLog;
+        elt.innerHTML = bWriteLog ? 'Dark mode' : 'Light mode';
 
-    let element = document.body;
-    element.classList.toggle("dark-mode");
-}
-</script>
+        let element = document.body;
+        element.classList.toggle("dark-mode");
+    }
+    </script>
+</div>
 
 </body>
 </html>

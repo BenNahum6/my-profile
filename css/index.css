@@ -167,13 +167,13 @@ button:hover {
 button:before {
     content: '';
     position: absolute;
-    top: -5px;
-    left: -5px;
-    right: -5px;
-    bottom: -5px;
+    top: -5%;
+    left: -5%;
+    right: -5%;
+    bottom: -5%;
     z-index: -1;
     background: linear-gradient(90deg,#03a9f4,#f441a5,#ffeb3b,#03a9f4);
-    background-size: 400%;
+    background-size: 350%;
     border-radius: 35px;
     transition: 1s;
 }
@@ -206,10 +206,12 @@ button:active {
     }
 
     button {
-        margin-left: 30%;
-        width: 35%;
-        height: 5%;
+        /*margin-left: 27%;*/
+        width: 30%;
+        height: 4%;
+        font-size: 70%;
     }
+
 }
 
 @media only screen and (max-width:500px) {
